@@ -1,1 +1,1 @@
-# Lab2_KyrylovDmytro_SH-402
+# Lab2_KyrylovDmytro_IH-402
